@@ -8,6 +8,7 @@
     "object",
     "model"
   ],
+  "minimum-stability": "dev",
   "license": "GPL-3.0-or-later",
   "authors": [
     {
