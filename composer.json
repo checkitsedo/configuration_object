@@ -9,6 +9,7 @@
     "model"
   ],
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "license": "GPL-3.0-or-later",
   "authors": [
     {
